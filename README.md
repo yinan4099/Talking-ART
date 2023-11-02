@@ -1,2 +1,2 @@
 # Talking-ART
-Talking-ART ap
+Talking-ART app
